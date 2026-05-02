@@ -7,11 +7,11 @@
     "start": "node rfxcom.js"
   },
   "dependencies": {
-    "rfxcom": "^2.5.0",
-    "js-yaml": "^4.1.0",
-    "mqtt": "^5.7.3"
+    "rfxcom": "^2.6.2",
+    "js-yaml": "^4.1.1",
+    "mqtt": "^5.15.1"
   },
   "keywords": ["RFXCOM", "RFXTRX", "MQTT"],
-  "author": "alexarch21+paifre",
+  "author": "paifre",
   "license": "MIT"
 }
