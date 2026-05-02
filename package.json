@@ -9,13 +9,9 @@
   "dependencies": {
     "rfxcom": "^2.5.0",
     "js-yaml": "^4.1.0",
-    "mqtt": "4.3.7"
+    "mqtt": "^5.7.3"
   },
-  "keywords": [
-    "RFXCOM",
-    "RFXTRX",
-    "MQTT"
-  ],
-  "author": "alexarch21",
+  "keywords": ["RFXCOM", "RFXTRX", "MQTT"],
+  "author": "alexarch21+paifre",
   "license": "MIT"
 }
